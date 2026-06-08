@@ -1,0 +1,6 @@
+{
+  "name": "AI Grammar and Style Advisor",
+  "description": "An advanced writing assistant that handles grammar corrections, clarity improvements, style suggestions, and tone adjustments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
